@@ -26,4 +26,4 @@ This project focuses on building personalized knowledge graphs to enhance the co
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/knowledge-graphs.git
+   git clone https://github.com/yelwali/-Knowledge-Graphs/

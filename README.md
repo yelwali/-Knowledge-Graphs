@@ -34,8 +34,8 @@ The project also includes an interactive UI built with **Streamlit** for real-ti
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yelwali/Personalized-Knowledge-Graphs
-   cd Personalized-Knowledge-Graphs
+   git clone https://github.com/yelwali/-Knowledge-Graphs.git
+   cd -Knowledge-Graphs
    ```
 
 2. Install the required libraries:
@@ -48,7 +48,7 @@ The project also includes an interactive UI built with **Streamlit** for real-ti
 To launch the application, run the following command in your terminal:
 
 ```bash
-streamlit run app.py
+streamlit run Comments Monitoring and Alert System.py
 ```
 
 This will open the app in your default web browser, where you can interact with the knowledge graph, analyze behavioral patterns, and manage alerts.
